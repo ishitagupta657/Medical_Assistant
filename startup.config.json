@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "script": "src/index.js",
+      "name": "app",
+      "instances": 1,
+      "autorestart": true,
+      "watch": false,
+      "time": true
+    }
+  ]
+}
