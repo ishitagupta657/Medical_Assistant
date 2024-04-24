@@ -4,6 +4,8 @@ Dataset: symptom2disease.csv
 ## Instruction 
 
 
+
+Backend
 ```
 git clone <repository-url>
 cd <project-directory>
@@ -11,6 +13,17 @@ npm install
 npm run start
 ```
 
+
+---
+
+
+Frontend
+```
+cd <project-directory>
+cd client
+npm install
+npm run start
+```
 
 ---
 
@@ -72,4 +85,4 @@ This Postman collection contains endpoints for interacting with the Medical Assi
 2. Set up your environment variables for local development or use the provided endpoint URLs.
 3. Use the provided endpoints with the appropriate methods and payloads as described above.
 
----# Medical_Assistant
+---
